@@ -9,7 +9,7 @@ body {
     place-items: center;
     padding: 24px;
     font-family: system-ui, sans-serif;
-    background: #eef2ff;
+    background: #fff5f8;
     color: #1f2937;
 }
 
@@ -32,7 +32,7 @@ body {
     background: #fff;
     padding: 18px;
     border-radius: 16px;
-    box-shadow: 0 10px 24px rgba(79, 70, 229, .2);
+    box-shadow: 0 10px 24px rgba(288, 174, 192, .25);
 }
 
 .rowForm {
@@ -45,14 +45,14 @@ input, select {
     flex: 1;
     padding: 10px;
     border-radius: 10px;
-    border: 1px solid #c7d2fe;
+    border: 1px solid #f0cbd7;
 }
 
 button {
     padding: 10px 14px;
     border-radius: 10px;
     border: none;
-    background: #4f46e5;
+    background: #e4aec0;
     color: #fff;
     cursor: pointer;
 }
@@ -64,7 +64,7 @@ section {
 section h3 {
     margin: 0 0 6px;
     font-size: 14px;
-    color: #4f46e5;
+    color: #e4aec0;
 }
 
 .list {
